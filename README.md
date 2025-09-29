@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Zahoor Hussain  
 
-<!--
-**mohammedzahoorhussain/MohammedZahoorHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BCA student at St. Joseph College, Hyderabad  
+🤖 Aspiring AI & Machine Learning Engineer  
+💻 Currently learning Python, data analysis, and ML basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m passionate about using technology to solve real-world problems. My current focus is on building a strong foundation in Python and machine learning. I aim to contribute to impactful AI projects and grow into a skilled ML Engineer.
+
+---
+
+## 📘 Currently Learning  
+- Python (core & OOP)  
+- Data handling (NumPy, Pandas)  
+- Machine Learning algorithms (Scikit-learn)  
+
+---
+
+## 🧪 Future Projects  
+- Spam Email Classifier  
+- House Price Prediction Model  
+- Image Classification using ML  
+
+---
+
+📫 **Connect with me:**  
+- [LinkedIn]((https://www.linkedin.com/in/mohammed-zahoor-hussain-566a5932b/)) *(add your profile link once created)*  
+- 📍 Hyderabad, India
+

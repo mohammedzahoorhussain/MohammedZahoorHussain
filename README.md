@@ -26,6 +26,6 @@ I’m passionate about using technology to solve real-world problems. My current
 ---
 
 📫 **Connect with me:**  
-- [LinkedIn]((https://www.linkedin.com/in/mohammed-zahoor-hussain-566a5932b/)) *(add your profile link once created)*  
+- [LinkedIn]((https://www.linkedin.com/in/mohammed-zahoor-hussain-566a5932b/)) 
 - 📍 Hyderabad, India
 
